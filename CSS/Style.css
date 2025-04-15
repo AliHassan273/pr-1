@@ -724,7 +724,7 @@ body {
 }
 
 .news-item:hover h3 {
-    color: white;
+    color: blue;
 }
 
 .news-item:hover p {
